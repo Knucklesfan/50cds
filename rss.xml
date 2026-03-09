@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://cadeparker.me/50cds" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://blog.cadeparker.me/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>50 Compact Discs</title>
-    <link>https://cadeparker.me/50cds</link>
-    <atom:link href="https://cadeparker.me/rss.xml" rel="self" type="application/rss+xml" />
+    <link>https://blog.cadeparker.me/</link>
+    <atom:link href="https://blog.cadeparker.me/rss.xml" rel="self" type="application/rss+xml" />
     <description>Gathering-place of all my thoughts on art, music, movies and probably some other stuff. Not really a blog dedicated to code or anything, but there may be some stuff bleed in there on interesting AV solutions I find, or whatnot.</description>
     <language>en</language>
     <image>
-      <url>https://cadeparker.me/50cdsfinalized.png</url>
+      <url>https://blog.cadeparker.me/finalized.png</url>
     </image>
     <item>
       <title>Phantom Island</title>
-      <link>https://cadeparker.me/p/Mar.08.26.At.23.17/</link>
+      <link>https://blog.cadeparker.me/p/Mar.08.26.At.23.17/</link>
       <description><p>I'm not a huge fan of King Gizzard's other works before 2024. It's a weird thing to say, and usually when I say something like that I hear &quot;Really? But their stuff <em>BEFORE</em> Flight b471 is so much better!&quot; and I know. I get the appeal, but to me it's way too... metal.</p>
 <p>I don't really like heavy rock. Personally, when the guitar starts getting overdriven I get nervous, and if that overdrive stays throughout the majority of the track and it's <em>too</em> loud, I'll usually avoid the track. Yes, I know this is a dumb take. Yes, I'm aware that most people feel the direct opposite and entire genres of music exist directly due to overdriving the guitar.</p>
 <p>That's exactly why Phantom Island is exactly my kind of groove. It still lingers a little bit of their heavy rock history, but god that psychedelic/jazz/classical combination in this album is incredible.</p>
@@ -22,7 +22,7 @@
 I'm tossing and turning between my time with a scarecrow and my tin man wife</p>
 <p>I'll leave it at that. I think that describing this story any further just reveals my own pain in having to chose between doing what I love and leaving the ones that I love to do that thing, so these lyrics specifically speak to that side of me.</p>
 <p>I don't want to ruin the rest of the album for you if you haven't listened to it yet. Just take my word for it and know you're in for a ride. It's a fantastic album and one that I think that everyone should give a try at least once.</p></description>
-      <content>&lt;picture&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://cadeparker.me/p/Mar.08.26.At.23.17/Wj0_iaWUTe-480.webp 480w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://cadeparker.me/p/Mar.08.26.At.23.17/Wj0_iaWUTe-480.jpeg&quot; alt=&quot;Phantom Island, the island covered in awesome gaters harassing the pigs from Flight b471&quot; width=&quot;480&quot; height=&quot;480&quot;&gt;&lt;/picture&gt;&lt;br&gt;&lt;p&gt;I&#39;m not a huge fan of King Gizzard&#39;s other works before 2024. It&#39;s a weird thing to say, and usually when I say something like that I hear &amp;quot;Really? But their stuff &lt;em&gt;BEFORE&lt;/em&gt; Flight b471 is so much better!&amp;quot; and I know. I get the appeal, but to me it&#39;s way too... metal.&lt;/p&gt;
+      <content>&lt;picture&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cadeparker.me/p/Mar.08.26.At.23.17/Wj0_iaWUTe-480.webp 480w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cadeparker.me/p/Mar.08.26.At.23.17/Wj0_iaWUTe-480.jpeg&quot; alt=&quot;Phantom Island, the island covered in awesome gaters harassing the pigs from Flight b471&quot; width=&quot;480&quot; height=&quot;480&quot;&gt;&lt;/picture&gt;&lt;br&gt;&lt;p&gt;I&#39;m not a huge fan of King Gizzard&#39;s other works before 2024. It&#39;s a weird thing to say, and usually when I say something like that I hear &amp;quot;Really? But their stuff &lt;em&gt;BEFORE&lt;/em&gt; Flight b471 is so much better!&amp;quot; and I know. I get the appeal, but to me it&#39;s way too... metal.&lt;/p&gt;
 &lt;p&gt;I don&#39;t really like heavy rock. Personally, when the guitar starts getting overdriven I get nervous, and if that overdrive stays throughout the majority of the track and it&#39;s &lt;em&gt;too&lt;/em&gt; loud, I&#39;ll usually avoid the track. Yes, I know this is a dumb take. Yes, I&#39;m aware that most people feel the direct opposite and entire genres of music exist directly due to overdriving the guitar.&lt;/p&gt;
 &lt;p&gt;That&#39;s exactly why Phantom Island is exactly my kind of groove. It still lingers a little bit of their heavy rock history, but god that psychedelic/jazz/classical combination in this album is incredible.&lt;/p&gt;
 &lt;p&gt;Nothing, and I mean nothing, will match the high of cranking the car, driving out of the neighborhood and hitting the highway RIGHT when Phantom Island his at 3:32. It&#39;s a &lt;strong&gt;RUSH&lt;/strong&gt;. It&#39;s pure, unadulterated SPEED. A spiral downward, an escape to the phantom island. Full, pure escapism at it&#39;s best. Phantom Island, Insane Asylum.&lt;/p&gt;
@@ -35,11 +35,11 @@ I&#39;m tossing and turning between my time with a scarecrow and my tin man wife
 </content>
       <pubDate>Mon, 09 Mar 2026 04:17:02 GMT</pubDate>
       <dc:creator>Cade Parker</dc:creator>
-      <guid>https://cadeparker.me/p/Mar.08.26.At.23.17/</guid>
+      <guid>https://blog.cadeparker.me/p/Mar.08.26.At.23.17/</guid>
     </item>
     <item>
       <title>Crisis? What Crisis?</title>
-      <link>https://cadeparker.me/p/Mar.08.26.At.22.53/</link>
+      <link>https://blog.cadeparker.me/p/Mar.08.26.At.22.53/</link>
       <description><p>You know what sucks? Supertramp. You know what I love? Supertramp.</p>
 <p>Probably the biggest duality in my life is whether or not I actually enjoy Supertramp, or think that it's hot balls. On one hand, you have tracks that have <a href="https://www.youtube.com/watch?v=vS7u8Ku_Nso">the world's most surface level lyrics combined with great instrumentals (featuring hank jennings!)</a>, or you have <a href="https://www.youtube.com/watch?v=4yc6Qq3Hz70">great vocal performances with meh instrumentals</a>. Or god forbid you're <a href="https://www.youtube.com/watch?v=u20QNICdSq8"><strong>potter</strong></a> (i have no idea what to even say about this entire album, not to mention this song...)</p>
 <p>To be honest, there are times where I'm somewhat embarassed to say that I enjoy Supertramp. I know that Supertramp is a good band! They've made genuinely great music! No closer can we get to all of my problems with Supertramp than to look at their 1975 album &quot;Crisis? What Crisis?&quot; because... It's so divisive for me.</p>
@@ -50,7 +50,7 @@ I&#39;m tossing and turning between my time with a scarecrow and my tin man wife
 <p>I get it. They put their worse work towards the end. But personally, I could live with an album that didn't include tracks like &quot;A Soapbox Opera&quot; if it meant more tracks like &quot;Poor Boy&quot; or &quot;Ain't Nobody but Me&quot;</p>
 <p>But really, I don't think I'd change this album. Here comes that duality part. The album needs the stinker songs, the ones that I personally dislike, because that's how it was made. I wouldn't change it for the world, since that's how it's always been. I don't know what the meaning is. I will still listen to the meaning. Even though I hate the meaning. It's still on that disc. It still is a part of the artwork. And for every track on this album I dislike, there still exists a part of me that still loves it.</p>
 <p>So yeah, You bet I'll keep fighting this duality, and you bet I still love Supertramp. No matter how awful it can get. And trust me, Brother Where You Bound is so much worse than this album. I like to call that album &quot;Rick Davies listens to one Pink Floyd album and says 'I could do that' and proceeds not to do that&quot;</p></description>
-      <content>&lt;picture&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://cadeparker.me/p/Mar.08.26.At.22.53/Vr0EtrzXxx-480.webp 480w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://cadeparker.me/p/Mar.08.26.At.22.53/Vr0EtrzXxx-480.jpeg&quot; alt=&quot;guy sitting in a lawn chair, surrounded by garbage with an umbrella. it&#39;s the cover to Crisis? What Crisis?&quot; width=&quot;480&quot; height=&quot;480&quot;&gt;&lt;/picture&gt;&lt;br&gt;&lt;p&gt;You know what sucks? Supertramp. You know what I love? Supertramp.&lt;/p&gt;
+      <content>&lt;picture&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cadeparker.me/p/Mar.08.26.At.22.53/Vr0EtrzXxx-480.webp 480w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cadeparker.me/p/Mar.08.26.At.22.53/Vr0EtrzXxx-480.jpeg&quot; alt=&quot;guy sitting in a lawn chair, surrounded by garbage with an umbrella. it&#39;s the cover to Crisis? What Crisis?&quot; width=&quot;480&quot; height=&quot;480&quot;&gt;&lt;/picture&gt;&lt;br&gt;&lt;p&gt;You know what sucks? Supertramp. You know what I love? Supertramp.&lt;/p&gt;
 &lt;p&gt;Probably the biggest duality in my life is whether or not I actually enjoy Supertramp, or think that it&#39;s hot balls. On one hand, you have tracks that have &lt;a href=&quot;https://www.youtube.com/watch?v=vS7u8Ku_Nso&quot;&gt;the world&#39;s most surface level lyrics combined with great instrumentals (featuring hank jennings!)&lt;/a&gt;, or you have &lt;a href=&quot;https://www.youtube.com/watch?v=4yc6Qq3Hz70&quot;&gt;great vocal performances with meh instrumentals&lt;/a&gt;. Or god forbid you&#39;re &lt;a href=&quot;https://www.youtube.com/watch?v=u20QNICdSq8&quot;&gt;&lt;strong&gt;potter&lt;/strong&gt;&lt;/a&gt; (i have no idea what to even say about this entire album, not to mention this song...)&lt;/p&gt;
 &lt;p&gt;To be honest, there are times where I&#39;m somewhat embarassed to say that I enjoy Supertramp. I know that Supertramp is a good band! They&#39;ve made genuinely great music! No closer can we get to all of my problems with Supertramp than to look at their 1975 album &amp;quot;Crisis? What Crisis?&amp;quot; because... It&#39;s so divisive for me.&lt;/p&gt;
 &lt;p&gt;Okay, so get this. Take an ambiently beautiful and easy entry song like Easy Does It, follow that into Sister Moonshine (a great track in it&#39;s own right), but then combine that with headscratchers like &amp;quot;A Soapbox Opera&amp;quot; and &amp;quot;The Meaning&amp;quot; with great instrumentals but god awful vocal performances, and you start to get confused. Each consecutive track into this album improves instrumentally and degrades vocally.&lt;/p&gt;
@@ -63,11 +63,11 @@ I&#39;m tossing and turning between my time with a scarecrow and my tin man wife
 </content>
       <pubDate>Mon, 09 Mar 2026 03:53:30 GMT</pubDate>
       <dc:creator>Cade Parker</dc:creator>
-      <guid>https://cadeparker.me/p/Mar.08.26.At.22.53/</guid>
+      <guid>https://blog.cadeparker.me/p/Mar.08.26.At.22.53/</guid>
     </item>
     <item>
       <title>Year of the Cat</title>
-      <link>https://cadeparker.me/p/Mar.08.26.At.22.36/</link>
+      <link>https://blog.cadeparker.me/p/Mar.08.26.At.22.36/</link>
       <description><p>This album is a lot to me. It may not be very much to you, and I completely understand that. It may not even be very much to many people. But to me, it's a lot.</p>
 <p>Al Stewart is such a weird artist to me. His music very frequently treads a line between being just <a href="https://www.youtube.com/watch?v=keq8PDwOHco&amp;pp=ygUXTW9kZXJuIFRpbWVzIGFsIHN0ZXdhcnQ%3D">a little too sappy (I do like this song)</a>, and <a href="https://www.youtube.com/watch?v=DWfqMoC5dns">sounding too much like a Ford Truck commercial at other times?</a> and yet, Year of the Cat has neither of these problems.</p>
 <p>How? Was it because it was produced by Alan Parsons. Yeah, THAT Alan Parsons. And to answer that question, no! Because Alan Parsons produced Modern Times and Time Passages as well. And both of those albums can't compete with Year of the Cat at all.</p>
@@ -77,7 +77,7 @@ I&#39;m tossing and turning between my time with a scarecrow and my tin man wife
 <p>Take Flying Sorcery. You want Amy to succeed so much. You're told of her childhood dream of flying, and now that she's finally gained it, you don't want the inevitable to finally catch up with her. And when she finally does fall to Icarus' fate, you feel bad for her, but know that she's still flying high in the sky. She'll fly forever, now.</p>
 <p>It's just such an emotional album, and it's very hard to describe. I just recommend that you go on to listen to it. If you enjoy folksy, sappy soft rock, it's what you're looking for. But I think everyone could use to listen to this album at least once in their life. Turn off all the lights, close your eyes and listen. Visualize the world that Al Stewart describes. See it for yourself and come to your own conclusion. I don't think I could write a description of what it means to me without getting too personal.</p>
 <p>It's that kind of personal album.</p></description>
-      <content>&lt;picture&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://cadeparker.me/p/Mar.08.26.At.22.36/OrgCoQ1ijC-480.webp 480w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://cadeparker.me/p/Mar.08.26.At.22.36/OrgCoQ1ijC-480.jpeg&quot; alt=&quot;Al Stewart, Year of the Cat album cover&quot; width=&quot;480&quot; height=&quot;477&quot;&gt;&lt;/picture&gt;&lt;br&gt;&lt;p&gt;This album is a lot to me. It may not be very much to you, and I completely understand that. It may not even be very much to many people. But to me, it&#39;s a lot.&lt;/p&gt;
+      <content>&lt;picture&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cadeparker.me/p/Mar.08.26.At.22.36/OrgCoQ1ijC-480.webp 480w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cadeparker.me/p/Mar.08.26.At.22.36/OrgCoQ1ijC-480.jpeg&quot; alt=&quot;Al Stewart, Year of the Cat album cover&quot; width=&quot;480&quot; height=&quot;477&quot;&gt;&lt;/picture&gt;&lt;br&gt;&lt;p&gt;This album is a lot to me. It may not be very much to you, and I completely understand that. It may not even be very much to many people. But to me, it&#39;s a lot.&lt;/p&gt;
 &lt;p&gt;Al Stewart is such a weird artist to me. His music very frequently treads a line between being just &lt;a href=&quot;https://www.youtube.com/watch?v=keq8PDwOHco&amp;amp;pp=ygUXTW9kZXJuIFRpbWVzIGFsIHN0ZXdhcnQ%3D&quot;&gt;a little too sappy (I do like this song)&lt;/a&gt;, and &lt;a href=&quot;https://www.youtube.com/watch?v=DWfqMoC5dns&quot;&gt;sounding too much like a Ford Truck commercial at other times?&lt;/a&gt; and yet, Year of the Cat has neither of these problems.&lt;/p&gt;
 &lt;p&gt;How? Was it because it was produced by Alan Parsons. Yeah, THAT Alan Parsons. And to answer that question, no! Because Alan Parsons produced Modern Times and Time Passages as well. And both of those albums can&#39;t compete with Year of the Cat at all.&lt;/p&gt;
 &lt;p&gt;The fact that Year of the Cat turned out the way that it did is a mystery to me, and I&#39;m sure there&#39;s a good reason for it. The title track alone is an album seller, but the entire album is FANTASTIC. It&#39;s strange, but for as alone at the end as Year of the Cat leaves me feeling, Lord Grenville fills me with this unspoken sadness.&lt;/p&gt;
@@ -89,11 +89,11 @@ I&#39;m tossing and turning between my time with a scarecrow and my tin man wife
 </content>
       <pubDate>Mon, 09 Mar 2026 03:36:52 GMT</pubDate>
       <dc:creator>Cade Parker</dc:creator>
-      <guid>https://cadeparker.me/p/Mar.08.26.At.22.36/</guid>
+      <guid>https://blog.cadeparker.me/p/Mar.08.26.At.22.36/</guid>
     </item>
     <item>
       <title>The Royal Scam</title>
-      <link>https://cadeparker.me/p/Mar.08.At.02.11/</link>
+      <link>https://blog.cadeparker.me/p/Mar.08.At.02.11/</link>
       <description><p>I think everyone has something they'd call a &quot;Desert Island&quot; album. That one album that if you were forced to live on a beautiful deserted tropical island, left only with your local humble kerosene record player (which is not a very efficient device) and one record to your name, that'd be the one you'd pick.
 Something with tracks you'd never skip and songs you'd never forget.</p>
 <p>Anyways, so here's The Royal Scam.</p>
@@ -145,7 +145,7 @@ Something with tracks you'd never skip and songs you'd never forget.</p>
 <p>And lastly, we're left with The Royal Scam, and what a great finale. Steely Dan isn't always great at picking finale tracks. In particular, I think that Aja just kinda... ends? Josie is not a great finale for Aja, and could've honestly been placed anywhere else in the album and would've still been a great track. But boy, when Steely Dan makes a good ending pick, they make a great one. The Royal Scam is a fantastic song that sums up about everything that the album speaks on both narratively and musically. It's a fantastic track that feels from the start as though it's creeping out of the dark shadow of a skyscraper on a moon-less night. It's as smooth as butter, and has so many little things in the track that you only pick up on through later listens. It's such a fantastic ending to an already great album.</p>
 <p>So, the final consensus. I don't know man. There's something about this album that just stands out to me from all of the other music by Steely Dan. Maybe it's the darker tone, maybe the chord progression or just the sheer fact that there are no songs in this album that I'd ever end up actually skipping.</p>
 <p>Or maybe it's because you're never gonna do it without the fez on.</p></description>
-      <content>&lt;picture&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://cadeparker.me/p/Mar.08.At.02.11/ttcJE0XjwK-480.webp 480w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://cadeparker.me/p/Mar.08.At.02.11/ttcJE0XjwK-480.jpeg&quot; alt=&quot;steely dan the royal scam album cover. Guy sleeping on a bench while a bunch of skyscrapers are laughing at him. classic&quot; width=&quot;480&quot; height=&quot;480&quot;&gt;&lt;/picture&gt;&lt;br&gt;&lt;p&gt;I think everyone has something they&#39;d call a &amp;quot;Desert Island&amp;quot; album. That one album that if you were forced to live on a beautiful deserted tropical island, left only with your local humble kerosene record player (which is not a very efficient device) and one record to your name, that&#39;d be the one you&#39;d pick.
+      <content>&lt;picture&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://blog.cadeparker.me/p/Mar.08.At.02.11/ttcJE0XjwK-480.webp 480w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://blog.cadeparker.me/p/Mar.08.At.02.11/ttcJE0XjwK-480.jpeg&quot; alt=&quot;steely dan the royal scam album cover. Guy sleeping on a bench while a bunch of skyscrapers are laughing at him. classic&quot; width=&quot;480&quot; height=&quot;480&quot;&gt;&lt;/picture&gt;&lt;br&gt;&lt;p&gt;I think everyone has something they&#39;d call a &amp;quot;Desert Island&amp;quot; album. That one album that if you were forced to live on a beautiful deserted tropical island, left only with your local humble kerosene record player (which is not a very efficient device) and one record to your name, that&#39;d be the one you&#39;d pick.
 Something with tracks you&#39;d never skip and songs you&#39;d never forget.&lt;/p&gt;
 &lt;p&gt;Anyways, so here&#39;s The Royal Scam.&lt;/p&gt;
 &lt;p&gt;It&#39;s by far &lt;em&gt;probably&lt;/em&gt; not my favorite record by Steely Dan, in fact depending on the day it might not even make my top ten. Yet there&#39;s someting about this album in particular that always has me coming back to it.&lt;/p&gt;
@@ -199,7 +199,7 @@ Something with tracks you&#39;d never skip and songs you&#39;d never forget.&lt;
 </content>
       <pubDate>Mon, 09 Mar 2026 02:11:46 GMT</pubDate>
       <dc:creator>Cade Parker</dc:creator>
-      <guid>https://cadeparker.me/p/Mar.08.At.02.11/</guid>
+      <guid>https://blog.cadeparker.me/p/Mar.08.At.02.11/</guid>
       <source>Cade Parker</source>
       <author>Cade Parker</author>
     </item>
