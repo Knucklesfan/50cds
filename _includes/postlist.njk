@@ -1,3 +1,10 @@
+<div class="topnav">
+  <a class="active" href="https://cadeparker.me/">Home</a>
+  <a href="https://blog.cadeparker.me">Blog</a>
+  <a href="https://cadeparker.me/contact.html">Contact</a>
+  <a target="_blank" href="https://cadeparker.me/resume.html">Resume</a>
+</div>
+
 <div class="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4 gap-y-1 md:gap-2">
   {%- for post in posts %}
   {%- for attachment in post.data.attachments | getHead(1) %}
